@@ -1,2 +1,1 @@
-# CRUD-Demo
-This repo contains basic CRUD operations in ASP.NET using C# and Entity Framework
+Basic CRUD (Create, Read, Update, Delete) in ASP.NET MVC Using C# and Entity Framework
